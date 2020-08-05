@@ -1,0 +1,28 @@
+.container{
+  background-color: coral;
+  width:1000px;
+  display: flex;
+
+}
+.item1{
+  background-color: pink;
+  flex: 3;
+
+}
+.item2{
+  background-color: lightblue;
+  flex:2;
+
+}
+.item{
+  height: 200px;
+}
+.measure{
+  display:flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  background-color: green;
+  width:1000px;
+  
+
+}
